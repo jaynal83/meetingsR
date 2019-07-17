@@ -69,6 +69,7 @@
 
   * Cork: [Cork R-Uses Group](https://www.meetup.com/Cork-Ireland-R-Users-Group/)
   * Dublin: [Dublin-R](https://www.meetup.com/DublinR/)
+  * Galway: [SonRaí](https://www.meetup.com/sonRai/)
 
 ### Italy `r edit_btn`
 
